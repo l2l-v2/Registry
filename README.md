@@ -1,4 +1,4 @@
-# JHipster Registry
+# L2L Registry
 
 [![Build Status][travis-image]][travis-url]  [![Docker Pulls](https://img.shields.io/docker/pulls/jhipster/jhipster-registry.svg)](https://hub.docker.com/r/jhipster/jhipster-registry/)
 
